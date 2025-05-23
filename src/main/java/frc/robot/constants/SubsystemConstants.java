@@ -2,6 +2,8 @@ package frc.robot.constants;
 
 public final class SubsystemConstants {
 
+    public static final boolean TUNING_MODE = true;
+
     public static final class ArmConstants {
 
         // TODO: change these values
